@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+      background-color: #08003c;
+}
+
+button{
+    font-family: "sora";
+    font-size: ;
+}
